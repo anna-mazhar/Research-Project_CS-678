@@ -1,12 +1,13 @@
 # Research-Project_CS-678
 
-#### Directories
+#### Data
 
 - data_final_report/ includes data analyzed in final report
 - data_mid_report/ includes data analyzed in mid-term report
-- reports/ include individual CSV files for ~1000 Alexa Popular webpages which summarizes all the requests made for images (image names), their transfer, actual and optimized sizes.
-
-Images for Alexa-1000 webpages and their optimized versions can be made available upon request (Total size exceeds 5GB).
+- reports/ include individual CSV files for ~1000 Alexa Popular webpages which summarize all the requests made for images (image names), their transfer, actual and optimized sizes.
+- figures/ include graphs that visualize the data
+- *_page_size_trends.csv summarizes the variation in page sizes for all the webpages
+- Images for Alexa-1000 webpages and their optimized versions can be made available upon request (Total size exceeds 5GB).
 
 
 
